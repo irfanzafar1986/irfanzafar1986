@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfanzafar1986
-- 👀 I’m interested in ... asn processor
-- 🌱 I’m currently learning ... asn 
+- 👀 I’m interested in ... Data Science
+- 🌱 I’m currently learning ... Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... m_irfanzafar@msn.com
 
